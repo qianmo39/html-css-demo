@@ -1,0 +1,62 @@
+html {
+  font-size: 22px;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-family: Helvetica, Arial, sans-serif;
+  background-image: linear-gradient(
+    to right,
+    rgb(182, 244, 146),
+    rgb(51, 139, 147)
+  );
+}
+
+.card-container {
+  width: 300px;
+  height: 400px;
+  position: relative;
+  perspective: 1000px;
+}
+
+.cover,
+.back {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.4rem;
+  font-size: 2rem;
+  backface-visibility: hidden;
+  transition: transform 0.25s ease-in-out;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.18);
+  text-shadow: 0 0.15rem 0.2rem rgba(0, 0, 0, 0.2);
+}
+
+.cover {
+  background-image: linear-gradient(
+    109.6deg,
+    rgba(156, 252, 248, 1) 11.2%,
+    rgba(110, 123, 251, 1) 91.1%
+  );
+  color: #fff;
+  transform: rotateY(0);
+}
+
+.back {
+  background: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+  transform: rotateY(-180deg);
+}
+
+.card-container:hover .cover {
+  transform: rotateY(180deg);
+}
+
+.card-container:hover .back {
+  transform: rotateY(0);
+}
