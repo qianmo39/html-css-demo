@@ -11,3 +11,4 @@ mini web projects using HTML, CSS
 | 05  | [Glass Website](https://github.com/qianmo39/html-css-demo/tree/main/glass-website)                             | [Live Demo](https://qianmo39.github.io/html-css-demo/glass-website/index.html)               |
 | 06  | [Hamburger Menu](https://github.com/qianmo39/html-css-demo/tree/main/hamburger-menu)                           | [Live Demo](https://qianmo39.github.io/html-css-demo/hamburger-menu/index.html)              |
 | 07  | [Flipping Card](https://github.com/qianmo39/html-css-demo/tree/main/flipping-card)                             | [Live Demo](https://qianmo39.github.io/html-css-demo/flipping-card/index.html)               |
+| 08  | [Animated Form](https://github.com/qianmo39/html-css-demo/tree/main/animated-form)                             | [Live Demo](https://qianmo39.github.io/html-css-demo/animated-form/index.html)               |
