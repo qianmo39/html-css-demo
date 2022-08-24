@@ -12,3 +12,4 @@ mini web projects using HTML, CSS
 | 06  | [Hamburger Menu](https://github.com/qianmo39/html-css-demo/tree/main/hamburger-menu)                           | [Live Demo](https://qianmo39.github.io/html-css-demo/hamburger-menu/index.html)              |
 | 07  | [Flipping Card](https://github.com/qianmo39/html-css-demo/tree/main/flipping-card)                             | [Live Demo](https://qianmo39.github.io/html-css-demo/flipping-card/index.html)               |
 | 08  | [Animated Form](https://github.com/qianmo39/html-css-demo/tree/main/animated-form)                             | [Live Demo](https://qianmo39.github.io/html-css-demo/animated-form/index.html)               |
+| 09  | [Svg Logo](https://github.com/qianmo39/html-css-demo/tree/main/svg-logo)                                       | [Live Demo](https://qianmo39.github.io/html-css-demo/svg-logo/index.html)                    |
